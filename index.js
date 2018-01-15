@@ -1,25 +1,31 @@
 // LEVEL 0
 
-var numberA = 10
-let numberB = 099
-const numberC = 0.02
+const nama = 'Fahri'
+var umur = 28
+let tinggibadan = 170
+var beratbadan = 69
 
-console.log(numberA);
-console.log(numberB);
-console.log(numberC);
+console.log(nama);
+console.log(umur);
+console.log(tinggibadan);
+console.log(beratbadan);
 
 
 
 // LEVEL 1
 
-var a = numberA + numberC
-var b = numberB - numberA
-var c = numberC * numberB
-var d = numberA / numberC
-var e = numberB % numberA
+var A1 = umur + tinggibadan
+var B1 = beratbadan - umur
+var C1 = beratbadan * tinggibadan
+var D1 = umur / beratbadan
+var E1 = tinggibadan % umur
 
-console.log(a);
-console.log(b);
-console.log(c);
-console.log(d);
-console.log(e);
+console.log(A1);
+console.log(B1);
+console.log(C1);
+console.log(D1);
+console.log(E1);
+
+
+
+// LEVEL 2
