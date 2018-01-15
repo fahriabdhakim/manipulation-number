@@ -38,3 +38,9 @@ console.log('berat badannya' + ` ` + beratbadan);
 
 
 // LEVEL 3
+var jajanan = [`lontong`, `risol`, `bakwan`, `pizza`]
+
+var jajanan1 = `lontong`
+var jajanan2 = `risol`
+var jajanan3 = `bakwan`
+var jajanan4 = `pizza`
